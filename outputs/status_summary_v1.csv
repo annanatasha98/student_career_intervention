@@ -1,0 +1,15 @@
+career_path,status,student_count
+Consulting,At Risk,1
+Consulting,Behind,1
+Consulting,On Track,3
+Finance,At Risk,1
+Finance,Behind,1
+Finance,On Track,3
+Healthcare,At Risk,1
+Healthcare,Behind,1
+Healthcare,On Track,3
+Tech,Behind,2
+Tech,On Track,4
+Undecided,At Risk,1
+Undecided,Behind,1
+Undecided,On Track,2

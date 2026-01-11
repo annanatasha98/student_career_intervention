@@ -24,12 +24,16 @@ respecting student autonomy.
 Industries with highly informal or network-driven hiring (e.g.
 entertainment) are intentionally excluded from V1.
 
-## Data ethics
+## Data Ethics
 - No real student data is used
 - All student records are synthetic
 - Assumptions are documented and transparent
 
-## Standards context
+## Standards Context
 This project is designed to *support*, not replace, formal career
 outcomes reporting aligned with standards such as CSEA and First
 Destination surveys.
+
+## Outputs
+- `outputs/intervention_recommendations_v1.csv`: V1 recommendations (status + suggested action) generated from the synthetic dataset.
+- `outputs/status_summary_v1.csv`: Executive-style summary of student status by career path.
