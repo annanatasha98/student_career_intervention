@@ -1,0 +1,26 @@
+student_id,program_type,career_path,week_in_program,milestone_stage,observable_engagement,status,recommended_action
+S001,Specialized_MS,Consulting,5,Applying,1,On Track,Recommend: Consulting recruiting tips + next relevant workshop
+S022,Specialized_MS,Consulting,6,Applying,1,On Track,Recommend: Consulting recruiting tips + next relevant workshop
+S002,Specialized_MS,Consulting,8,None,0,Behind,Send: Consulting timeline reminder + top 2 workshops to attend
+S003,Specialized_MS,Consulting,9,Applying,0,At Risk,Send: High-urgency nudge + 'start here' resource path for Consulting
+S004,Specialized_MS,Consulting,10,Interviewing,1,On Track,Recommend: Interview prep / mock interview resources
+S013,Specialized_MS,Finance,6,Applying,1,On Track,Recommend: Finance recruiting tips + next relevant workshop
+S023,Specialized_MS,Finance,8,Interviewing,1,On Track,Recommend: Interview prep / mock interview resources
+S014,Specialized_MS,Finance,9,None,0,Behind,Send: Finance timeline reminder + top 2 workshops to attend
+S015,Specialized_MS,Finance,11,Applying,0,At Risk,Send: High-urgency nudge + 'start here' resource path for Finance
+S016,Specialized_MS,Finance,12,Interviewing,1,On Track,Recommend: Interview prep / mock interview resources
+S009,Specialized_MS,Healthcare,9,Applying,1,On Track,Recommend: Healthcare recruiting tips + next relevant workshop
+S024,Specialized_MS,Healthcare,12,Applying,0,On Track,Recommend: Healthcare recruiting tips + next relevant workshop
+S010,Specialized_MS,Healthcare,13,None,0,Behind,Send: Healthcare timeline reminder + top 2 workshops to attend
+S011,Specialized_MS,Healthcare,15,Applying,0,At Risk,Send: High-urgency nudge + 'start here' resource path for Healthcare
+S012,Specialized_MS,Healthcare,16,Interviewing,1,On Track,Recommend: Interview prep / mock interview resources
+S005,Specialized_MS,Tech,7,Applying,1,On Track,Recommend: Tech recruiting tips + next relevant workshop
+S021,Specialized_MS,Tech,10,Applying,0,On Track,Recommend: Tech recruiting tips + next relevant workshop
+S006,Specialized_MS,Tech,11,None,0,Behind,Send: Tech timeline reminder + top 2 workshops to attend
+S007,Specialized_MS,Tech,12,Applying,0,On Track,Recommend: Tech recruiting tips + next relevant workshop
+S025,Specialized_MS,Tech,13,None,1,Behind,Recommend: Next-step checklist for Tech
+S008,Specialized_MS,Tech,14,Interviewing,1,On Track,Recommend: Interview prep / mock interview resources
+S017,Specialized_MS,Undecided,4,None,0,On Track,Recommend: Light-touch resource roundup
+S018,Specialized_MS,Undecided,6,None,1,On Track,Recommend: Light-touch resource roundup
+S019,Specialized_MS,Undecided,7,None,0,Behind,Send: Undecided timeline reminder + top 2 workshops to attend
+S020,Specialized_MS,Undecided,9,None,0,At Risk,Send: High-urgency nudge + 'start here' resource path for Undecided
