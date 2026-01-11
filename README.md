@@ -30,7 +30,7 @@ entertainment) are intentionally excluded from V1.
 - Assumptions are documented and transparent
 
 ## Standards Context
-This project is designed to *support*, not replace, formal career
+This project is designed to support, not replace, formal career
 outcomes reporting aligned with standards such as CSEA and First
 Destination surveys.
 
