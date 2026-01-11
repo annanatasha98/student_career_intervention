@@ -1,4 +1,4 @@
-student_id,program_type,career_path,week_in_program,milestone_stage,engagement_flag
+student_id,program_type,career_path,week_in_program,milestone_stage,observable_engagement
 S001,Specialized_MS,Consulting,5,Applying,1
 S002,Specialized_MS,Consulting,8,None,0
 S003,Specialized_MS,Consulting,9,Applying,0
