@@ -37,3 +37,5 @@ Destination surveys.
 ## Outputs
 - `outputs/intervention_recommendations_v1.csv`: V1 recommendations (status + suggested action) generated from the synthetic dataset.
 - `outputs/status_summary_v1.csv`: Executive-style summary of student status by career path.
+- `outputs/career_path_bottom_line_v1.csv`: Bottom-line summary by career path combining student status distribution and engagement visibility.
+
