@@ -1,0 +1,7 @@
+student_id,event_date,field,new_value,source
+S021,2026-01-14,observable_engagement,1,synthetic_weekly_generator
+S024,2026-01-14,observable_engagement,1,synthetic_weekly_generator
+S008,2026-01-14,observable_engagement,1,synthetic_weekly_generator
+S024,2026-01-14,milestone_stage,Interviewing,synthetic_weekly_generator
+S019,2026-01-14,observable_engagement,1,synthetic_weekly_generator
+S001,2026-01-14,observable_engagement,1,synthetic_weekly_generator
