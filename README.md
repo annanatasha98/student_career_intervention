@@ -21,6 +21,12 @@ respecting student autonomy.
 - Geography: Industry-based, not region-specific
 - Data: Synthetic student records + public industry context
 
+**Recruiting focus:**  
+This framework focuses on internship recruiting timelines, where Career
+Services can actively intervene while students are still enrolled;
+full-time outcomes are considered downstream reporting rather than
+intervention use cases.
+
 Industries with highly informal or network-driven hiring (e.g.
 entertainment) are intentionally excluded from V1.
 
