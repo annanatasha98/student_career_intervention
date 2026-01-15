@@ -171,8 +171,8 @@ This reduces false positives while still enabling timely intervention.
 ---
 
 ## Scope and limitations
-- Timelines are based on **publicly observable internship recruiting
-  patterns**, not proprietary or USC-specific data.
+- Timelines are based on publicly observable internship recruiting
+  patterns.
 - Individual employers may recruit earlier or later than these norms.
 - Thresholds are intended to be **updated in V2** using institutional
   data (e.g., Handshake activity, surveys).
